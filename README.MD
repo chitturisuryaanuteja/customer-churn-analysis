@@ -1,0 +1,5 @@
+"customer-churn-analysis" 
+"This project includes predictive modeling and exploratory data analysis notebooks." 
+"## Files" 
+"- `predictive Modeling.ipynb`: Contains predictive modeling work." 
+"- `ExploratoryDataAnalysis.ipynb`: Contains exploratory data analysis work." 
