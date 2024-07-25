@@ -5,28 +5,52 @@
 "This project aims to predict customer churn using various machine learning techniques. Churn prediction is crucial for businesses to retain customers by identifying those at risk of leaving." 
 
 "" 
+
 "# Dataset Description#" 
+
+
 "" 
+
 "The dataset \`Train_data.csv\` contains customer information and the target variable indicating whether a customer has churned. The columns are:" 
+
 "- \`Unnamed: 0\`: Index" 
+
 "- \`RowNumber\`: Customer's row number" 
+
 "- \`CustomerId\`: Customer ID" 
+
 "- \`Surname\`: Customer surname" 
+
 "- \`CreditScore\`: Credit score of the customer" 
+
 "- \`Geography\`: Country of the customer" 
+
 "- \`Gender\`: Gender of the customer" 
+
 "- \`Age\`: Age of the customer" 
+
 "- \`Tenure\`: Number of years the customer has been with the bank" 
+
 "- \`Balance\`: Account balance of the customer" 
+
 "- \`NumOfProducts\`: Number of bank products the customer is using" 
+
 "- \`HasCrCard\`: Does the customer have a credit card? (1 = Yes, 0 = No)" 
+
 "- \`IsActiveMember\`: Is the customer an active member? (1 = Yes, 0 = No)" 
+
 "- \`EstimatedSalary\`: Estimated salary of the customer" 
+
 "- \`Exited\`: Did the customer churn? (1 = Yes, 0 = No)" 
+
 "- \`Complain\`: Did the customer complain? (1 = Yes, 0 = No)" 
+
 "- \`Satisfaction_Score\`: Customer satisfaction score" 
+
 "- \`Card_Type\`: Type of card the customer has" 
+
 "- \`Point_Earned\`: Points earned by the customer" 
+
 "- \`ReceivedPromotion\`: Did the customer receive a promotion? (1 = Yes, 0 = No)" 
 "- \`AgeGroup\`: Age group of the customer" 
 "- \`InterventionType\`: Type of intervention used for the customer" 
