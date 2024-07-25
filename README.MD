@@ -1,7 +1,9 @@
 "" 
 "#Overview#" 
 "" 
+
 "This project aims to predict customer churn using various machine learning techniques. Churn prediction is crucial for businesses to retain customers by identifying those at risk of leaving." 
+
 "" 
 "# Dataset Description#" 
 "" 
